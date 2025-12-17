@@ -4,7 +4,8 @@
  * @description Automatically translates messages to your preferred language using DeepL API.
  * @version 1.0.0
  * @authorLink https://github.com/FrostlineTech
- * @source https://github.com/FrostlineTech/bd-translator
+ * @source https://github.com/FrostlineTech/FrostTranslator
+ * @updateUrl https://raw.githubusercontent.com/FrostlineTech/FrostTranslator/main/FrostTranslator.plugin.js
  */
 
 module.exports = class FrostTranslator {
