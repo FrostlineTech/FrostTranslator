@@ -2,7 +2,7 @@
  * @name FrostTranslator
  * @author Dakota Fryberger
  * @description Automatically translates messages to your preferred language using DeepL API.
- * @version 1.0.0
+ * @version 1.0.2
  * @authorLink https://github.com/FrostlineTech
  * @source https://github.com/FrostlineTech/FrostTranslator
  * @updateUrl https://raw.githubusercontent.com/FrostlineTech/FrostTranslator/main/FrostTranslator.plugin.js
@@ -11,7 +11,7 @@
 module.exports = class FrostTranslator {
     constructor() {
         this.name = "FrostTranslator";
-        this.version = "1.0.1";
+        this.version = "1.0.2";
         this.author = "Dakota Fryberger";
         this.description = "Automatically translates messages to your preferred language using DeepL API.";
         
