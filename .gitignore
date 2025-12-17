@@ -1,0 +1,25 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.backup
+*.bak
+Translator.plugin.js.backup
+
+# Node (if using any build tools)
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+
+# Environment files (keep .env if sharing API key intentionally)
+# .env
