@@ -11,7 +11,7 @@
 module.exports = class FrostTranslator {
     constructor() {
         this.name = "FrostTranslator";
-        this.version = "1.0.0";
+        this.version = "1.0.1";
         this.author = "Dakota Fryberger";
         this.description = "Automatically translates messages to your preferred language using DeepL API.";
         
